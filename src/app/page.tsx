@@ -97,7 +97,7 @@ const InterviewPage: React.FC = () => {
           <div className="w-full max-w-md mx-auto mt-8">
             <Card>
               <CardHeader>
-                <CardTitle>Loan Application Checker</CardTitle>
+                <CardTitle>Loan Eligibility Checker</CardTitle>
                 <CardDescription>
                   Fill out the form to check your loan application details.
                 </CardDescription>
